@@ -14,7 +14,7 @@ const __dirname = dirname(__filename)
 const base = '/'
 
 export default defineConfig({
-  base: '/BBS-landing-grand-lite/',
+  base: '/',
   plugins: [react()],
   resolve: {
     alias: {
